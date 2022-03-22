@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(255, 182, 255);
+}
+.desc{
+    font: normal 25px "Georgia", serif;
+}
+img{
+    border-radius: 30px;
+}
+.lorem{
+    font: normal 20px "Georgia", serif;
+}
+h3{
+    font: normal 28px "Georgia", serif;
+}
+li, .contact{
+    font: normal 18px "Georgia", serif;
+}
